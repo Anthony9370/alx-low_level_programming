@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - A program that prints a line using the printf function;
+ * main - A program that prints exactly with proper grammer
  *
- * return: Always 0 (success)
+ * Return: Always 0 (success)
  */
 int main(void)
 {
